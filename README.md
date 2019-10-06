@@ -1,2 +1,2 @@
-# CustomerAnalysis
-Segmentation and Recommender System built using UCI ML Online Retail II dataset
+# Customer Segmentation Analysis
+Customer Segmentation conducted using UCI ML Online Retail II dataset
